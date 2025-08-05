@@ -97,8 +97,9 @@ npm start
 
 
 
-### 📸 Screenshots
+### 📸 Screenshots:
 
+<img width="1849" height="1075" alt="Screenshot 2025-08-05 225719" src="https://github.com/user-attachments/assets/a53b0e9b-a0b7-4a30-ba5b-1838a2b24b75" />
 
 
 <img width="1916" height="1079" alt="Screenshot 2025-08-05 213605" src="https://github.com/user-attachments/assets/71b20e5b-7834-400c-84e4-85f24ac7b1b3" />
@@ -107,6 +108,7 @@ npm start
 <img width="1919" height="1079" alt="Screenshot 2025-08-05 213621" src="https://github.com/user-attachments/assets/187c1625-000e-4256-9d52-c27c93088516" />
 <img width="1907" height="1067" alt="Screenshot 2025-08-05 213637" src="https://github.com/user-attachments/assets/690e7bdc-ca65-458d-8291-8220d697cd05" />
 <img width="1919" height="1079" alt="Screenshot 2025-08-05 213703" src="https://github.com/user-attachments/assets/7f1826b3-b1ad-462c-aa70-c8e1fcf00e0a" />
+<img width="1919" height="1079" alt="Screenshot 2025-08-05 225759" src="https://github.com/user-attachments/assets/2cf14fb2-7911-4a2f-9320-cca2f6f241df" />
 
 ### 📄 License
 
