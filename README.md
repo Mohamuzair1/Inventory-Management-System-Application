@@ -95,17 +95,18 @@ npm start
 
 ---
 
-### 🌐 Live Demo
 
-> *(Add GitHub Pages/Netlify link here if hosted)*
-
----
 
 ### 📸 Screenshots
 
-> *(Optional – you can upload screenshots in the GitHub repo and embed here)*
+<img width="1354" height="703" alt="Screenshot 2025-08-03 230846" src="https://github.com/user-attachments/assets/0f8d4e0a-a322-4153-966d-e5649d48fbf4" />
+
+<img width="1916" height="1079" alt="Screenshot 2025-08-05 213605" src="https://github.com/user-attachments/assets/71b20e5b-7834-400c-84e4-85f24ac7b1b3" />
 
 ---
+<img width="1919" height="1079" alt="Screenshot 2025-08-05 213621" src="https://github.com/user-attachments/assets/187c1625-000e-4256-9d52-c27c93088516" />
+<img width="1907" height="1067" alt="Screenshot 2025-08-05 213637" src="https://github.com/user-attachments/assets/690e7bdc-ca65-458d-8291-8220d697cd05" />
+<img width="1919" height="1079" alt="Screenshot 2025-08-05 213703" src="https://github.com/user-attachments/assets/7f1826b3-b1ad-462c-aa70-c8e1fcf00e0a" />
 
 ### 📄 License
 
